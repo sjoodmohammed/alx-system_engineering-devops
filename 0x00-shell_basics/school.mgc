@@ -1,1 +1,3 @@
 o string SCHOOL Schol data file
+!: mime School
+file -C -m School.mgc
